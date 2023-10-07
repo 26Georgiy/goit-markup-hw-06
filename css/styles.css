@@ -585,7 +585,7 @@ footer {
   text-align: center;
   margin-bottom: 72px;
 }
-.team ul {
+.team-list {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -677,7 +677,7 @@ footer {
   .team .container {
     padding: 0 15px;
   }
-  .team ul {
+  .team-list {
     flex-wrap: nowrap;
     justify-content: space-between;
     align-items: center;
